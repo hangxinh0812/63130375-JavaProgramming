@@ -10,7 +10,7 @@ public class CT {
         dsSanPham = new ArrayList<SanPham>();
 
         // Nhập 3 sản phẩm
-        SanPham sp1 = new SanPham(0, "Bánh", "Giải khát", null);
+        SanPham sp1 = new SanPham(0, "Bánh", "Đồ ăn", null);
         SanPham sp2 = new SanPham(1, "Kẹo", "Đồ ăn", null);
         SanPham sp3 = new SanPham(2, "coca", "Giải khát", null);
 
